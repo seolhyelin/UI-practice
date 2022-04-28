@@ -25,11 +25,11 @@
 }
 
 .item:hover:after {
-  content: 'open';
+  content: "open";
 }
 
 .item.open:after {
-  content: 'close';
+  content: "close";
 }
 
 .context {
